@@ -1,0 +1,2 @@
+# hintcoin
+Hint Coin Project
